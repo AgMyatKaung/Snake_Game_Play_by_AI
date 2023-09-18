@@ -13,7 +13,7 @@ LR = 0.001
 
 SAVE_EVERY = 5  # Save the model every 5 games
 
-TRAINING_FOLDER = 'AI/AI_finalProject'
+TRAINING_FOLDER = 'Snake_Game_Play_by_AI'
 
 if not os.path.exists(TRAINING_FOLDER):
     os.makedirs(TRAINING_FOLDER)
