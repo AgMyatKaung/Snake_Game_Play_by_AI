@@ -1,5 +1,4 @@
 import streamlit as st
-import torch
 from game import SnakeGameAI, Direction, Point
 from agent import Agent  # Import your Agent class from agent.py
 import matplotlib.pyplot as plt
